@@ -35,8 +35,9 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 Com o Pomo Timer, aprendi a utilizar:
 - `typescript` para adicionar tipagens ao JavaScript;
 - `styled-components` para que a estilização e criação de temas;
-- `ESLint` para definir padrões de escrito do código;
-- `React Router Dom` 
+- `ESLint` para definir padrões de escrita do código;
+- `React Router Dom` para definit as configurações das rotas;
+- `phosphor icons` para importar os ícones;
 
 ## Utilização do projeto
 
