@@ -44,7 +44,7 @@ Com o Pomo Timer, aprendi a utilizar:
 
 ### 💾 Baixar o projeto
 Faça o clone do repositório para ter uma versão do projeto em sua máquina:<br/>
-`$ git clone https://github.com/mmanaclara/ignite-timer.git`
+`$ git clone https://github.com/mmanaclara/pomo-timer.git`
 
 ### 🧰 Instalar dependências
 `$ npm install ou yarn`  
@@ -55,4 +55,4 @@ Faça o clone do repositório para ter uma versão do projeto em sua máquina:<b
 Agora você pode acessar [`localhost:3000`](http://localhost:3000) do seu navegador.
 
 ## 📝 Licença
-Este projeto está licenciado nos termos da licença [MIT](https://github.com/mmanaclara/ignite-timer/blob/main/license). 
+Este projeto está licenciado nos termos da licença [MIT](https://github.com/mmanaclara/pomo-timer/blob/main/license). 
