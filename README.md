@@ -1,6 +1,4 @@
-<h1 align="center">
-  <img alt="ignite timer" title="ignite timer" src="./logo.png" />
-</h1>
+## ⏰ Pomo Timer | Visualização
 
 <p align="center">
   <img alt="License" src="https://img.shields.io/static/v1?label=license&message=MIT&color=00875F&labelColor=000000">
@@ -16,7 +14,7 @@
 
 ## 💻 Projeto
 
-O Ignite Timer é um app que une a técnica de Pomodoro com a realização de exercícios físicos para quem passa muito tempo na frente do computador.
+O Pomo Timer é um app que utiliza a técnica de Pomodoro para mensurar o tempo dedicado a projetos. 
 
 ## ✨ Tecnologias
 
