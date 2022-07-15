@@ -14,7 +14,7 @@
 
 ## 💻 Projeto
 
-O Pomo Timer é um app que utiliza a técnica de Pomodoro para mensurar o tempo dedicado a projetos. 
+O Pomo Timer é um app que utiliza a técnica de Pomodoro para aumentar a produtividade, já que divide o fluxo de trabalho em ciclos de concentração intercalados com pausas curtas para descansar o cérebro. 
 
 ## ✨ Tecnologias
 

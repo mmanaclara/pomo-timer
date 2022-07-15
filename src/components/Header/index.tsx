@@ -1,5 +1,5 @@
 /* eslint-disable prettier/prettier */
-import { HeaderContainer } from './styles';
+import { HeaderContainer, LogoContainer } from './styles';
 import logoIgnite from '../../assets/logo-ignite.svg';
 import { Timer, Scroll } from 'phosphor-react';
 import { NavLink } from 'react-router-dom';
@@ -7,13 +7,13 @@ import { NavLink } from 'react-router-dom';
 export function Header() {
     return (
         <HeaderContainer>
-            <div>
+            <LogoContainer>
                 <img src={logoIgnite} alt="" />
                 <h2>pomo timer</h2>
-            </div>
+            </LogoContainer>
             <nav>
                 <NavLink to="/" title="Timer">
-                    <Timer size={24} />
+                    <Timer size={24} color="#00875F" />
                 </NavLink>
                 <NavLink to="/history" title='Histórico'>
                     <Scroll size={24}/>

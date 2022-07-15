@@ -13,16 +13,6 @@ export const LayoutContainer = styled.div`
     display: flex;
     flex-direction: column;
 
-    div {
-        display: flex;
-        align-items: center;
-        gap: 2rem; 
-
-        h2 {
-            font-size: 2.4rem;
-        }
-    }
-
     nav {
         display: flex;
         gap: 1.5rem;
@@ -51,3 +41,4 @@ export const LayoutContainer = styled.div`
         }
     }
 `
+
