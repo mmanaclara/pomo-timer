@@ -13,7 +13,7 @@ export function Header() {
             </LogoContainer>
             <nav>
                 <NavLink to="/" title="Timer">
-                    <Timer size={24} color="#00875F" />
+                    <Timer size={24} />
                 </NavLink>
                 <NavLink to="/history" title='Histórico'>
                     <Scroll size={24}/>
