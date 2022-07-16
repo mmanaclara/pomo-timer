@@ -1,14 +1,33 @@
 /* eslint-disable prettier/prettier */
+import { useState } from 'react';
 import { Play } from "phosphor-react";
-import { CountdownContainer, FormContainer, HomeContainer, MinutesAmountInput, Separator, StartCountdownButton, TaskInput } from "./styles";
+import { 
+  CountdownContainer, 
+  FormContainer, 
+  HomeContainer, 
+  MinutesAmountInput, 
+  Separator, 
+  StartCountdownButton, 
+  TaskInput 
+} from "./styles";
 
 export function Home() {
+  const [task, setTask] = useState('')
+
+  console.log(task)
+
   return (
     <HomeContainer>
       <form action="">
         <FormContainer>
           <label htmlFor="">Vou trabalhar em</label>
-          <TaskInput id="task" list="task-suggestions" placeholder="Dê um nome para o seu projeto" />
+          <TaskInput 
+            id="task" 
+            list="task-suggestions" 
+            placeholder="Dê um nome para o seu projeto" 
+            onChange={(e) => setTask(e.target.value)}
+            value={task}
+          />
 
           <datalist id="task-suggestions">
             <option value="Londres 1" />
@@ -37,7 +56,7 @@ export function Home() {
           <span>0</span>
         </CountdownContainer>
 
-        <StartCountdownButton type="submit">
+        <StartCountdownButton disabled={!task} type="submit">
           <Play size={18} />
           Começar
         </StartCountdownButton>
