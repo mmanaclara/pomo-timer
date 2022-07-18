@@ -2,8 +2,7 @@
 
 <p align="center">
   <img alt="License" src="https://img.shields.io/static/v1?label=license&message=MIT&color=00875F&labelColor=000000">
-
- <img src="https://img.shields.io/static/v1?label=ReactJS&message=Ignite&color=00875F&labelColor=000000" alt="Trilha ReactJS do Ignite" />
+  <img src="https://img.shields.io/static/v1?label=ReactJS&message=Ignite&color=00875F&labelColor=000000" alt="Trilha ReactJS do Ignite" />
 </p>
 
 <br>
@@ -24,8 +23,8 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 - [TypeScript](https://www.typescriptlang.org/)
 - [Styled Components](https://www.npmjs.com/package/styled-components)
 - [React Router Dom](https://github.com/remix-run/react-router/blob/main/docs/getting-started/tutorial.md)
-- [React Hook Form]()
-- [Zot]()
+- [React Hook Form](https://react-hook-form.com/)
+- [Zod](https://zod.dev/)
 - [Context API]()
 - [UseReducer]()
 - [Immer]()
@@ -33,11 +32,12 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 
 ## 📖 Conhecimento
 Com o Pomo Timer, aprendi a utilizar:
-- `typescript` para adicionar tipagens ao JavaScript;
 - `styled-components` para que a estilização e criação de temas;
 - `ESLint` para definir padrões de escrita do código;
 - `React Router Dom` para definit as configurações das rotas;
 - `phosphor icons` para importar os ícones;
+- `React Hook Form` para melhorar o desempenho do formulário;
+- `zod` para validar o formulário;
 
 ## Utilização do projeto
 
