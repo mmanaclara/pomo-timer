@@ -32,10 +32,10 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 - [Immer]()
 
 ## 🛠 Funcionalidades
-✔ Dar um nome ao projeto
-✔ Definir a duração do ciclo
-✔ Pausar o cronômetro
-✔ Armazenar projeto no histórico
+✔ Dar um nome ao projeto<br/>
+✔ Definir a duração do ciclo<br/>
+✔ Pausar o cronômetro<br/>
+✔ Armazenar projeto no histórico<br/>
 
 ## 📖 Conhecimento
 Com o Pomo Timer, aprendi a utilizar:
