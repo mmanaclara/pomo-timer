@@ -1,8 +1,10 @@
-## ⏰ Pomo Timer | Visualização
+## ⏰ Pomo Timer
 
 <p align="center">
-  <img alt="License" src="https://img.shields.io/static/v1?label=license&message=MIT&color=00875F&labelColor=000000">
-  <img src="https://img.shields.io/static/v1?label=ReactJS&message=Ignite&color=00875F&labelColor=000000" alt="Trilha ReactJS do Ignite" />
+  <img src="https://img.shields.io/static/v1?label=ReactJS&message=Ignite&color=00875F&labelColor=141716" alt="Trilha ReactJS do Ignite" />
+  <img alt="Github top language" src="https://img.shields.io/github/languages/top/mmanaclara/pomo-timer?color=00875F&labelColor=141716">
+  <img alt="Github language count" src="https://img.shields.io/github/languages/count/mmanaclara/pomo-timer?color=00875F&labelColor=141716">
+  <img alt="Último commit" src="https://img.shields.io/github/last-commit/mmanaclara/pomo-timer?color=00875F&labelColor=141716">
 </p>
 
 <br>
@@ -29,6 +31,11 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 - [UseReducer]()
 - [Immer]()
 
+## 🛠 Funcionalidades
+✔ Dar um nome ao projeto
+✔ Definir a duração do ciclo
+✔ Pausar o cronômetro
+✔ Armazenar projeto no histórico
 
 ## 📖 Conhecimento
 Com o Pomo Timer, aprendi a utilizar:
