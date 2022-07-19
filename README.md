@@ -1,4 +1,6 @@
-## ⏰ Pomo Timer
+<h1 align="center">
+  ⏰ Pomo Timer
+</h1>
 
 <p align="center">
   <img src="https://img.shields.io/static/v1?label=ReactJS&message=Ignite&color=00875F&labelColor=141716" alt="Trilha ReactJS do Ignite" />
